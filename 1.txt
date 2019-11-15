@@ -1,4 +1,2 @@
-LearnGit
-GitLearn
-LearnGit
-GitLearn
+学习Git
+Git学习
